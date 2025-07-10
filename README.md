@@ -14,7 +14,7 @@ The Bank-Account-Management-System is a console-based application built using Co
 - **PostgreSQL**: For storing and managing employee data.
 - **Maven**: For project dependency management and building the project.
 
-## Dependencies
+##* Dependencies
 
 The project uses the following dependencies:
 
@@ -26,7 +26,7 @@ The project uses the following dependencies:
       <version>42.6.0</version>
   </dependency>
   ```
-  ## Prerequisites
+  ## *Prerequisites
 . create PostgreSQL database with the following table:
    ```sql
  CREATE TABLE bank_account (
@@ -37,7 +37,7 @@ The project uses the following dependencies:
    );
    ```
 
-## Contact
+##* Contact
 - **Your Name** : Priyanka Phadatare 
 - **Email**: priyankaphadatare162@gmail.com  
 - **GitHub**: [PriyankaPhadatare](https://github.com/PriyankaPhadatare)
